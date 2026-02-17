@@ -1,0 +1,10 @@
+# Ignore all Word docs by default
+*.docx
+
+# But keep this specific one
+!Data Dictionary.docx
+
+# (Optional) Ignore other common junk
+~$*.docx
+.DS_Store
+Thumbs.db
